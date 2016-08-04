@@ -2,7 +2,8 @@
     'use strict';
 
     angular.module('app', [])
-        .config(routeConfiguration);
+        .config(routeConfiguration)
+        .run(routeConfiguration);
 
     function routeConfiguration(){
         var foo = 1;
