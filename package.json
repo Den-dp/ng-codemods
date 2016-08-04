@@ -1,0 +1,14 @@
+{
+  "name": "jscodeshift-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transform.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jscodeshift": "^0.3.27"
+  }
+}

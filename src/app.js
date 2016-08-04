@@ -5,7 +5,7 @@
         .config(routeConfiguration);
 
     function routeConfiguration(){
-
+        var foo = 1;
     }
 
 })();
