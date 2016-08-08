@@ -1,3 +1,4 @@
+// Comment on first line
 (function(){
     'use strict';
 
